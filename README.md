@@ -53,6 +53,7 @@ Preprocessing: Clean and normalize data (handle missing values, noise reduction)
 
 Outcome: 
 A functional AI-based prototype that can predict specific types of natural disasters with reasonable accuracy. A user-friendly interface for monitoring and alert generation. Enhanced preparedness and response capabilities through real-time insights. Potential to reduce economic loss and save lives by facilitating early interventions. 
+
 3. Machine Learning for Environmental Monitoring.
 
 Overview: 
