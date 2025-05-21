@@ -14,18 +14,9 @@ DATE:14-05-2025
 
 TECHNOLOGY-PROJECT NAME: AI-POWERED NATURAL DISASTER PREDICTION AND MANAGEMENT
 SUBMITTED BY:
-
 S. VIGNESH
 
-TEAM MEMBERS NAME:
-A.AKSHAYA,
-S.VIGNESH,
-A.ROGITH ROSHAN,
-G.SANJAY,
-M.RAJASRI.
-
 1. Project Demonstration Overview
-2. 
 Objective: Demonstrate the system's capabilities in predicting and managing natural disasters, emphasizing early warning systems, real-time data integration, and response coordination.
 
 Demonstration Highlights:
@@ -77,7 +68,6 @@ Real-time environmental insights for decision-makers. Early warning systems for 
 Performance of the Project :
 
 2.	Chatbot Performance Optimization :
-3.	
 Overview: 
 The chatbot interface will be optimized for quicker response times and more intuitive interactions. It will be able to provide emergency instructions, real-time disaster updates, and personalized safety recommendations based on user inputs. Additionally, the NLP (Natural Language Processing) capabilities will be enhanced to handle a wide range of regional dialects and input styles.
 
