@@ -39,8 +39,6 @@ Documentation Sections:
 
 Outcome: All system components are thoroughly documented, ensuring clarity for future development and deployment.
 
-IMPLEMENTATION OF PROJECT :
-
 IMPORTANT POINTS OF PHASE 3
 
 •	A functional AI model capable of predicting natural disasters with moderate accuracy.
